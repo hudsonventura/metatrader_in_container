@@ -8,10 +8,8 @@ An optional watchdog ensures that if MT5 crashes, the container exits as well, a
 
 
 
-<video width="720" height="480" controls>
-  <source src="mt5_demo.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+![Descrição opcional](mt5_demo.gif)
+
 
 
 # Getting Stated
