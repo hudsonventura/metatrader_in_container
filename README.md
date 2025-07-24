@@ -1,6 +1,9 @@
 # metatrader_in_container
 Run MT5 in a Docker container.  
 
+![Docker Pulls](https://img.shields.io/docker/pulls/hudsonventura/mt5)
+
+
 This project runs the MT5 application inside a Docker container using Wine as a compatibility layer. The container typically consumes around 600MB of RAM. It's possible to run multiple containers simultaneously, each with a separate MT5 account.  
 An optional watchdog ensures that if MT5 crashes, the container exits as well, allowing Docker to automatically restart it and maintain uptime.
 
