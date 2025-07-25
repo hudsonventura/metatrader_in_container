@@ -1,7 +1,7 @@
 services:
 
   mt5:
-    image: hudsonventura/mt5:1.0
+    image: hudsonventura/mt5:1.1
     build:
        context: ./
        dockerfile: ./Dockerfile

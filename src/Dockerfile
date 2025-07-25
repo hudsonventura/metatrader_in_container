@@ -23,6 +23,6 @@ RUN chmod +x /start.sh
 
 #Run manually inside the container
 # wine MicrosoftEdgeWebview2Setup.exe /silent /install && wine mt5setup.exe
-
+# Add servers: Search by the brokers in account creation.
 
 
