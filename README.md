@@ -21,7 +21,7 @@ Create a file `docker-compose.yml` with this content:
 services:
 
   mt5:
-    image: hudsonventura/mt5:1.0
+    image: hudsonventura/mt5:1.1
 
     ports:
       - "5901:5901" #VNC
